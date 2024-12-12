@@ -6,19 +6,38 @@ Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que apr
 ---
 
 ## 1.Las aplicaciones de la IA: 
-Monitorea y optimiza redes en tiempo real, detecta anomalías, predice problemas de conectividad, y proporciona análisis para mejorar el rendimiento y la seguridad de las redes.
+- **Monitorización en tiempo real:** Analiza el estado de la red y detecta problemas al instante. 
+- **Predicción de fallos:** Identifica patrones que podrían derivar en problemas de conectividad o rendimiento.
+- **Optimización de redes:** Ajusta configuraciones automáticamente para mejorar el rendimiento y minimizar interrupciones.  
+- **Análisis de seguridad:** Detecta anomalías que podrían indicar ciberataques o brechas de seguridad.  
 
 ---
 
 ## 2.Impacto en el Sector:
-Mejora la gestión de redes complejas, reduce tiempos de resolución de problemas, aumenta la seguridad y estabilidad en entornos críticos.
+
+- **Gestión eficiente de redes:** Simplifica la administración de redes complejas y reduce la necesidad de intervención manual.
+- **Mejora de la experiencia del usuario:** Minimiza las interrupciones y optimiza la conectividad en tiempo real.  
+- **Reducción de tiempos de respuesta:** Acelera la resolución de problemas mediante diagnósticos automatizados.  
+- **Aumento de la seguridad:** Detecta y previene amenazas antes de que impacten el sistema.  
 
 ---
 
 ## 3.Impacto Ambiental: 
-Consume energía en el procesamiento de datos en tiempo real y en los centros de datos que soportan la infraestructura de red y la IA.
+
+- **Consumo energético:** La monitorización constante y el análisis en tiempo real incrementa la demanda energética en centros de datos.
+- **Huella de carbono:** La infraestructura necesaria para soportar esta tecnología genera emisiones significativas.
+- **Recursos computacionales intensivos:** Los algoritmos avanzados requieren hardware especializado que puede aumentar los desechos electrónicos.
 
 ---
 
 ## 4.Propuestas para minimizar el impacto ambiental: 
-Implementar prácticas de eficiencia energética, usar tecnologías verdes en centros de datos, y reducir el procesamiento innecesario o redundante.
+
+- **Uso de energías renovables:** Implementar fuentes de energía limpia en los centros de datos que soportan GitHub Copilot
+- **Hardware sostenible:** Desarrollar infraestructura que utilice materiales reciclados o tecnologías más eficientes.
+- **Procesamiento local:** Implementar técnicas de procesamiento en el borde (edge computing) para reducir el tráfico a los centros de datos.
+- **Reutilización de hardware:** Promover la creación de hardware más duradero y reciclable para reducir residuos electrónicos. 
+
+## 5.Referencias y recursos adicionales: 
+[Página oficial Cisco](https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center-assurance/2-3-5/b_cisco_dna_assurance_2_3_5_ug/b_cisco_dna_assurance_2_3_3_ug_chapter_010.html)
+
+[]()
