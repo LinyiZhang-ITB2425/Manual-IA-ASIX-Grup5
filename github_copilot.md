@@ -14,3 +14,23 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 ---
 
 ## 2. Impacto en el Sector
+- **Incremento de la productividad**: Los desarrolladores pueden centrarse en tareas más complejas gracias a las sugerencias automatizadas.  
+- **Democratización del desarrollo**: Facilita el acceso a herramientas avanzadas incluso para usuarios principiantes.  
+- **Cambio en las dinámicas laborales**: Automatiza tareas básicas, demandando habilidades más avanzadas y creativas.  
+
+---
+
+## 3. Impacto Ambiental  
+- **Consumo energético elevado**: El entrenamiento y la ejecución de modelos de lenguaje como Copilot requieren grandes cantidades de recursos computacionales.  
+- **Huella de carbono**: Los centros de datos utilizados generan emisiones significativas debido a su alta demanda energética.  
+- **Demanda de hardware**: La necesidad de equipos potentes para soportar IA incrementa la producción y desechos electrónicos.
+
+---
+
+## 4. Propuestas para Minimizar los Impactos Ambientales  
+- **Optimización del entrenamiento**: Reducir el consumo energético de los modelos mediante técnicas más eficientes.  
+- **Uso de energías renovables**: Implementar fuentes de energía limpia en los centros de datos que soportan GitHub Copilot.  
+- **Fomentar el uso eficiente**: Promover el uso responsable para evitar procesos innecesarios o redundantes.  
+- **Hardware sostenible**: Desarrollar infraestructura que utilice materiales reciclados o tecnologías más duraderas.  
+
+---
