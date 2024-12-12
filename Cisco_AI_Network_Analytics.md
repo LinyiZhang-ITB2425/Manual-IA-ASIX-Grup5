@@ -38,6 +38,6 @@ Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que apr
 - **Reutilización de hardware:** Promover la creación de hardware más duradero y reciclable para reducir residuos electrónicos. 
 
 ## 5.Referencias y recursos adicionales: 
-[Página oficial Cisco](https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center-assurance/2-3-5/b_cisco_dna_assurance_2_3_5_ug/b_cisco_dna_assurance_2_3_3_ug_chapter_010.html)
+[Página Oficial Cisco](https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center-assurance/2-3-5/b_cisco_dna_assurance_2_3_5_ug/b_cisco_dna_assurance_2_3_3_ug_chapter_010.html)
 
 []()
