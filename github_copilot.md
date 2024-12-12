@@ -6,7 +6,11 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 ---
 
 ## 1. Aplicaciones de la IA
-- Sugerencia de líneas completas o bloques de código basados en el contexto.
-- Ayuda en el aprendizaje de nuevos lenguajes y tecnologías de programación.  
-- Reducción de tiempo en tareas rutinarias de desarrollo.  
-- Proporciona ejemplos rápidos y relevantes para problemas comunes de programación.
+- **Sugerencia** de líneas completas o bloques de código basados en el contexto.
+- **Ayuda** en el aprendizaje de nuevos lenguajes y tecnologías de programación.  
+- **Reducción** de tiempo en tareas rutinarias de desarrollo.  
+- **Proporciona** ejemplos rápidos y relevantes para problemas comunes de programación.
+
+---
+
+## 2. Impacto en el Sector
