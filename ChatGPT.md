@@ -1,4 +1,4 @@
-# <span style="color:#d89ba5;"> Manual de ChatGPT</span>
+# Manual de ChatGPT
 
 ## Introducción
 ChatGPT es una de las IA's más útiles y usadas actualmente, diseñada para procesar y generar texto de forma natural. Este manual ofrece información general sobre las aplicaciones, impacto y consideraciones ambientales asociadas al uso de esta tecnología, así como propuestas para hacerla más sostenible ante él.
