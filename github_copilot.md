@@ -39,4 +39,5 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 - [Documentación oficial de GitHub Copilot](https://github.com/features/copilot)
 - [OpenAI Codex: Como funciona](https://openai.com/index/openai-codex/)
 - [Inicio rápido para GitHub Copilot](https://docs.github.com/es/copilot/quickstart)
-- [Foro de GitHub Copilot](https://github.com/orgs/community/discussions/categories/copilot)
+
+[Foro de GitHub Copilot](https://github.com/orgs/community/discussions/categories/copilot)
