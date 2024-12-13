@@ -11,6 +11,9 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 - **Reducción** de tiempo en tareas rutinarias de desarrollo.  
 - **Proporciona** ejemplos rápidos y relevantes para problemas comunes de programación.
 
+### Diagrama de flujo
+![Diagrama de flujo de sugerencias de Copilot](https://www.researchgate.net/profile/Clemente-Manzano-2/publication/373514407/figure/fig3/AS:11431281184688666@1693418006347/Ejemplo-de-codigo-generado-por-GitHub-Copilot-5-Finalmente-debemos-ejecutar-el-codigo.ppm)
+
 ---
 
 ## 2. Impacto en el Sector
@@ -34,7 +37,7 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 - **Hardware sostenible**: Desarrollar infraestructura que utilice materiales reciclados o tecnologías más duraderas.  
 
 ### Buenas prácticas
-> "Adoptar estrategias de sostenibilidad no solo reduce el impacto ambiental, sino que garantiza un futuro más responsable en el ámbito tecnológico."
+>  Adoptar estrategias de sostenibilidad no solo reduce el impacto ambiental, sino que garantiza un futuro más responsable en el ámbito tecnológico.
 
 ---
 
