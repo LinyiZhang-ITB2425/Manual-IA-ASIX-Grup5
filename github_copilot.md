@@ -7,6 +7,7 @@ Copilot es un sistema de ayuda creado por GitHub, uno de los mayores portales de
 
 > "GitHub Copilot es como tener un copiloto en el desarrollo, ofreciendo sugerencias y ayudando en cada línea de código."  
 > — *GitHub*
+
 ---
 
 ## 1. Aplicaciones de la IA
@@ -54,7 +55,7 @@ for i in range(10):
 - **Hardware sostenible**: Desarrollar infraestructura que utilice materiales reciclados o tecnologías más duraderas.  
 
 ### Buenas prácticas
->  Adoptar estrategias de sostenibilidad no solo reduce el impacto ambiental, sino que garantiza un futuro más responsable en el ámbito tecnológico.
+>  Adoptar estrategias de sostenibilidad no solo reduce el impacto ambiental, sino que garantiza un futuro más responsable en el ámbito tecnológico.:joy:
 
 ---
 
