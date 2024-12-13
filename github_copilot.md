@@ -28,6 +28,9 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 - **Huella de carbono**: Los centros de datos utilizados generan emisiones significativas debido a su alta demanda energética.  
 - **Demanda de hardware**: La necesidad de equipos potentes para soportar IA incrementa la producción y desechos electrónicos.
 
+### Visualización del impacto
+![Gráfico de emisiones de carbono](https://es.statista.com/grafico/1/635894/emisiones-mundiales-de-dioxido-de-carbono.jpg)
+
 ---
 
 ## 4. Propuestas para Minimizar los Impactos Ambientales  
