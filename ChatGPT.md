@@ -2,7 +2,7 @@
 
 ## Introducción
 ChatGPT es una de las IA's más útiles y usadas actualmente, diseñada para procesar y generar texto de forma natural. Este manual ofrece información general sobre las aplicaciones, impacto y consideraciones ambientales asociadas al uso de esta tecnología, así como propuestas para hacerla más sostenible ante él.
-[](https://img.freepik.com/fotos-premium/icono-ilustracion-logotipo-chat-gpt-open-ai_895118-4739.jpg)
+![ ](https://img.freepik.com/fotos-premium/icono-ilustracion-logotipo-chat-gpt-open-ai_895118-4739.jpg)
 ## Índice
 1. [Las aplicaciones de la IA](#las-aplicaciones-de-la-ia)
 2. [Impacto en el sector](#impacto-al-sector)
