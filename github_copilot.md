@@ -11,6 +11,16 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 - **Reducción** de tiempo en tareas rutinarias de desarrollo.  
 - **Proporciona** ejemplos rápidos y relevantes para problemas comunes de programación.
 
+### Ejemplo de sugerencia automática
+
+```python
+# Ejemplo de Copilot completando un bucle en Python
+for i in range(10):
+    print(f"Número: {i}")
+```
+
+> Copilot sugiere automáticamente cómo completar el bucle, ahorrando tiempo y evitando errores.
+
 ### Diagrama de flujo
 ![Diagrama de flujo de sugerencias de Copilot](https://apptoyoube.upcnet.es/media/media_content/2024/git-hub-es.png)
 
