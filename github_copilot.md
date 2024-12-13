@@ -12,7 +12,7 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 - **Proporciona** ejemplos rápidos y relevantes para problemas comunes de programación.
 
 ### Diagrama de flujo
-[Diagrama de flujo de sugerencias de Copilot](https://www.researchgate.net/profile/Clemente-Manzano-2/publication/373514407/figure/fig3/AS:11431281184688666@1693418006347/Ejemplo-de-codigo-generado-por-GitHub-Copilot-5-Finalmente-debemos-ejecutar-el-codigo.ppm)
+![Diagrama de flujo de sugerencias de Copilot](https://apptoyoube.upcnet.es/media/media_content/2024/git-hub-es.png)
 
 ---
 
