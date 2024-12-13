@@ -7,7 +7,8 @@ ChatGPT es una de las IA's más útiles y usadas actualmente, diseñada para pro
 1. [Las aplicaciones de la IA](#las-aplicaciones-de-la-ia)
 2. [Impacto en el sector](#impacto-al-sector)
 3. [Impacto ambiental](#impacto-ambiental)
-4. [Propuestas para minimizar los impactos ambientales](#propuestas-para-minimizar-los-impactos-ambientales)
+4. [Propuestas para minimizar los impactos ambientales]
+[](#propuestas-para-minimizar-los-impactos-ambientales)
 
 ---
 
