@@ -3,6 +3,18 @@
 ## Introducción 
 Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que aprovecha el poder del aprendizaje automático y el razonamiento automático para brindar información precisa y específica para la implementación de su red, lo que le permite solucionar problemas rápidamente. 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![img.1](https://www.cisco.com/c/dam/en/us/td/i/400001-500000/430001-440000/438001-439000/438909.jpg)
 
 
@@ -12,7 +24,15 @@ Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que apr
 - **Monitorización en tiempo real:** Analiza el estado de la red y detecta problemas al instante. 
 - **Predicción de fallos:** Identifica patrones que podrían derivar en problemas de conectividad o rendimiento.
 - **Optimización de redes:** Ajusta configuraciones automáticamente para mejorar el rendimiento y minimizar interrupciones.  
-- **Análisis de seguridad:** Detecta anomalías que podrían indicar ciberataques o brechas de seguridad.  
+- **Análisis de seguridad:** Detecta anomalías que podrían indicar ciberataques o brechas de seguridad.
+
+
+
+
+
+
+
+
 
 
 ![img.2](https://storage.googleapis.com/blogs-images-new/ciscoblogs/1/5cf80e763aeab.jpg)
