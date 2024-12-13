@@ -33,6 +33,9 @@ Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores port
 - **Fomentar el uso eficiente**: Promover el uso responsable para evitar procesos innecesarios o redundantes.  
 - **Hardware sostenible**: Desarrollar infraestructura que utilice materiales reciclados o tecnologías más duraderas.  
 
+### Buenas prácticas
+> "Adoptar estrategias de sostenibilidad no solo reduce el impacto ambiental, sino que garantiza un futuro más responsable en el ámbito tecnológico."
+
 ---
 
 ## 5. Referencias y recursos adicionales
