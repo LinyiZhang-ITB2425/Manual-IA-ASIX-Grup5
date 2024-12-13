@@ -3,7 +3,7 @@
 ## Introducción
 Copilot es un sistema de ayuda creado por GitHub, que es uno de los mayores portales del mundo para alojar el código abierto. Por su parte, Copilot es un asistente basado en Inteligencia Artificial que ayuda a escribir código en tiempo real. Se encarga de facilitar tareas repetitivas, aumentando la eficiencia y mejorando el aprendizaje en el ámbito del desarrollo de software.
 
-![GitHub Copilot Imagen](https://skarredghost.com/wp-content/uploads/2023/05/github-copilot-review.png)
+![GitHub Copilot Imagen](https://media.licdn.com/dms/image/D4E12AQGUxTOC3los3A/article-cover_image-shrink_600_2000/0/1694596637191?e=2147483647&v=beta&t=-RcnbH8K9K8jjXpeAMl7IoqYdYvjlNHlavrXbb5uXyg)
 
 ---
 
