@@ -57,8 +57,8 @@ A pesar de sus beneficios, ChatGPT tiene un impacto ambiental importante:
 - **Emisiones de carbono**:
  Los centros de datos que alimentan estos sistemas generan emisiones de gases de efecto invernadero.
 
-- **Uso intensivo de recursos naturales**:
- El equipamiento necesario para operar la IA incrementa la extracción de materiales y la generación de residuos tecnológicos.
+- **Uso intensivo de refrigeración**:
+ [El uso de ChatGPT-3 consume hasta dos litros de agua por 50 consultas](https://alertadigital.ar/chatgpt-y-su-sed-insaciable-el-grave-impacto-ambiental-de-la-inteligencia-artificial/) haciendo alto el costo energético y de recursos asociados para su funcionamiento.
 
 ---
 
