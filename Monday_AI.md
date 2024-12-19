@@ -12,7 +12,9 @@ Utiliza tecnología avanzada para ofrecer una variedad de funciones y caracterí
 - **Resúmenes:** la IA de monday resume temas complejos y entrega los elementos de acción correspondientes
 - **Redacción y edición de correos:** Ayuda a escribir y editar correos con más rapidez dentro de monday Sales CRM para ahorrar tiempo.
 - **Asistente de fórmulas:** Describe una tarea o un objetivo del equipo a la IA de monday y genera una fórmula que ayuda a completar esas tareas con más eficiencia.
-![img.2](https://storage.googleapis.com/blogs-images-new/ciscoblogs/1/5cf80e763aeab.jpg)
+
+
+![img2](https://cdn.uc.assets.prezly.com/5ab8c1db-b466-4ebe-875b-82a94935a3d0/Ai%20assistant%20_%20Projects%20(1).jpg)
 ---
 
 ## 2.Impacto en el Sector:
@@ -28,8 +30,6 @@ Utiliza tecnología avanzada para ofrecer una variedad de funciones y caracterí
 - **Huella de carbono:** Los centros de datos que soportan la IA generan emisiones de CO₂.
 - **Hardware obsoleto:** La creciente demanda de computación puede incrementar los desechos electrónicos.
   
-
-![img.3] 
 ---
 
 ## 4.Propuestas para minimizar el impacto ambiental: 
@@ -42,3 +42,6 @@ Utiliza tecnología avanzada para ofrecer una variedad de funciones y caracterí
 ## 5.Referencias y recursos adicionales: 
 [Monday](https://support.monday.com/hc/en-us/articles/18433811274386-monday-AI-Automation-blocks)
 
+[Monday.com Help Center](https://monday.com/helpcenter/)
+
+[Monday.com Blog](https://monday.com/blog/es/)
