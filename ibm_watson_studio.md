@@ -65,3 +65,13 @@ def predict_sales(data):
 ![Minimizar Impacto Ambiental](https://copimar.net/wp-content/uploads/2017/04/impacto-ambiental-en-las-empresas-1.jpg)
 
 ---
+
+## 5. Referencias y recursos adicionales
+[IBM Watson Studio Overview](https://www.ibm.com/products/watson-studio)
+
+[IBM Watson Studio Documentation](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=cpdaas&audience=wdp)
+
+[IBM AI Learning Resources](https://developer.ibm.com/components/watson-studio/learningpaths/)
+
+[IBM Watson Studio Case Studies](https://www.ibm.com/products/watsonx-assistant/case-studies)
+[IBM Watson Blog](https://www.ibm.com/blog/category/watson/)
