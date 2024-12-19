@@ -81,8 +81,10 @@ Para reducir el impacto ambiental de ChatGPT, se pueden aplicar varias solucione
 
  ## 6. Referencias y recursos adicionales
 
-  [Empresas y atención al cliente](https://www.cio.com/article/1314390/como-pueden-utilizar-chatgpt-y-gpt-3-las-empresas.html?utm_source=chatgpt.com)
+  [·Empresas y atención al cliente](https://www.cio.com/article/1314390/como-pueden-utilizar-chatgpt-y-gpt-3-las-empresas.html?utm_source=chatgpt.com)
 
-  [Educación y aprendizaje](https://blog.linclearning.com/es/chat-gpt-y-el-futuro-de-la-educacion?utm_source=chatgpt.com)
+  [·Educación y aprendizaje](https://blog.linclearning.com/es/chat-gpt-y-el-futuro-de-la-educacion?utm_source=chatgpt.com)
   
-  [Impacto ambiental](https://algoritmosverdes.gob.es/es/noticias/los-impactos-ambientales-de-la-ia?utm_source=chatgpt.com)
+  [·Impacto ambiental](https://algoritmosverdes.gob.es/es/noticias/los-impactos-ambientales-de-la-ia?utm_source=chatgpt.com)
+
+  [·Propuestas para minimizar los impactos ambientales](https://news.microsoft.com/source/latam/noticias-de-microsoft/sostenible-por-diseno-innovacion-para-la-eficiencia-energetica-en-ia-parte-2/?utm_source=chatgpt.com)
