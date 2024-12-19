@@ -32,7 +32,8 @@ Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que apr
 - **Huella de carbono:** La infraestructura necesaria para soportar esta tecnología genera emisiones significativas.
 - **Recursos computacionales intensivos:** Los algoritmos avanzados requieren hardware especializado que puede aumentar los desechos electrónicos.
 
-![img.3](https://imagenes.elpais.com/resizer/v2/I7U7JLXREBE6LDCKYGDMG3VWZI.png?auth=05d6732190eb1c9b7873e6cac34b16654880c41f2ba991764a07d389f6a5fd1e&width=828)
+![img.3](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/QgrcJHrnxTVcxbGFlWLWklbjZXRwSDvdFRL?projector=1&messagePartId=0.1)
+![img.4](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/QgrcJHrnxTVcxbGFlWLWklbjZXRwSDvdFRL?projector=1&messagePartId=0.2)
 ---
 
 ## 4.Propuestas para minimizar el impacto ambiental: 
