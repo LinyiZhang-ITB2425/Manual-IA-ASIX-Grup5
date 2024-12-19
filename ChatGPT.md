@@ -46,7 +46,7 @@ ChatGPT ha tenido un impacto notable en varios sectores:
 
 - **Retos y limitaciones**:
  Puede provocar dependencia tecnológica y la sustitución de puestos de trabajo en tareas rutinas, requiriendo un uso ético y responsable.
-![ ] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.totemguard.com%2Faulatotem%2F2023%2F03%2Fchatgpt-educacion-prohibir-beneficiarse-ia%2F&psig=AOvVaw2LDulEscd1EofE77eKY7pO&ust=1734678830148000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCNDbuq2ks4oDFQAAAAAdAAAAABCbAQ)
+![ ] (https://www.totemguard.com/aulatotem/wp-content/uploads/2023/03/Chat_gpt_explicacion_fotosintesis.jpg)
 ---
 
 ## Impacto ambiental
