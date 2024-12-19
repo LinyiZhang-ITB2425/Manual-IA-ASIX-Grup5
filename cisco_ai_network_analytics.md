@@ -5,7 +5,6 @@ Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que apr
 
 ![img.1](https://www.cisco.com/c/dam/en/us/td/i/400001-500000/430001-440000/438001-439000/438909.jpg)
 
-
 ---
 
 ## 1.Las aplicaciones de la IA: 
