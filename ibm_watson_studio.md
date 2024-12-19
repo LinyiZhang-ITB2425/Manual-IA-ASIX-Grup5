@@ -42,3 +42,26 @@ def predict_sales(data):
 > — *Estudio de caso IBM*
 
 ---
+
+## 3. Impacto Ambiental
+- **Consumo energético elevado**: Como muchas otras herramientas basadas en IA, IBM Watson Studio requiere recursos computacionales significativos, lo que contribuye al alto consumo de energía.  
+- **Generación de datos masiva**: La gestión y almacenamiento de grandes volúmenes de datos también pueden aumentar la huella de carbono debido al uso intensivo de centros de datos.  
+- **Uso de hardware especializado**: La necesidad de servidores avanzados y dispositivos específicos puede incrementar el impacto ambiental, especialmente en términos de desechos electrónicos.
+
+> "El impacto ambiental de las plataformas de IA es un desafío que requiere soluciones innovadoras para equilibrar la sostenibilidad con la tecnología avanzada."  
+> — *Investigación sobre IA sostenible*
+
+---
+
+## 4. Propuestas para Minimizar los Impactos Ambientales  
+- **Optimización del entrenamiento**: Reducir el consumo energético al optimizar los algoritmos y métodos de entrenamiento, empleando técnicas avanzadas como la cuantización y la reducción de la complejidad del modelo.
+- **Uso de energías renovables**: Implementar fuentes de energía limpia en los centros de datos que soportan IBM Watson Studio, para minimizar la huella de carbono asociada con el consumo energético.  
+- **Fomentar el uso eficiente**: Promover el uso responsable de recursos, evitando procesos innecesarios o redundantes en la preparación y procesamiento de datos. 
+- **Hardware sostenible**:  Desarrollar infraestructura que utilice materiales reciclados o tecnologías más duraderas
+
+### Buenas prácticas
+>  Adoptar estrategias de sostenibilidad no solo reduce el impacto ambiental, sino que garantiza un futuro más responsable en el ámbito tecnológico. :grinning:
+
+![Minimizar Impacto Ambiental](https://copimar.net/wp-content/uploads/2017/04/impacto-ambiental-en-las-empresas-1.jpg)
+
+---
