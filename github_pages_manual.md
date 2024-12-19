@@ -6,3 +6,11 @@ Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que apr
 ![img1](https://ugeek.github.io/blog/images-blog/githubpages.png)
 
 ---
+
+## Paso 1
+Primero nos aseguramos que nuestro repositorio sea público. Lo podemos comprobar desde la configuración del repositorio "General" -> "Change Repository Visibility" y podremos cambiar de privado a público en el caso que no lo esté.
+
+
+### Paso 1
+Primero nos aseguramos que nuestro repositorio sea público. Lo podemos comprobar desde la configuración del repositorio "General" -> "Change Repository Visibility" y podremos cambiar de privado a público en el caso que no lo esté.
+
