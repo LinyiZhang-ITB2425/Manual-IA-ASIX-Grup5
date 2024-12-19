@@ -33,7 +33,7 @@ Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que apr
 - **Recursos computacionales intensivos:** Los algoritmos avanzados requieren hardware especializado que puede aumentar los desechos electrónicos.
 
 ![img.3](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/QgrcJHrnxTVcxbGFlWLWklbjZXRwSDvdFRL?projector=1&messagePartId=0.1)
-![img.4](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/QgrcJHrnxTVcxbGFlWLWklbjZXRwSDvdFRL?projector=1&messagePartId=0.2)
+![img.4]([https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/QgrcJHrnxTVcxbGFlWLWklbjZXRwSDvdFRL?projector=1&messagePartId=0.2](https://mail.google.com/mail/u/0/popout?ver=p0kbpj0jttuc#attid%253Datt_193ddb90983dc93a_0.2_193ddb8f921caf1043c1))
 ---
 
 ## 4.Propuestas para minimizar el impacto ambiental: 
