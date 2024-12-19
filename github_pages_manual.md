@@ -1,7 +1,7 @@
 # Manual de GitHub Pages
 
 ## Introducción 
-Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que aprovecha el poder del aprendizaje automático y el razonamiento automático para brindar información precisa y específica para la implementación de su red, lo que le permite solucionar problemas rápidamente. 
+GitHub Pages es una herramienta gratuita de GitHub diseñada para que los desarrolladores puedan alojar sitios web estáticos de forma rápida y sencilla, sin incurrir en costos adicionales. Es ideal para diversos usos, como exhibir proyectos personales, crear portafolios, landing pages o blogs, eliminando la necesidad de pagar por hosting o gestionar servidores, lo que la convierte en una opción accesible para desarrolladores de todos los niveles.
 
 ![img1](https://ugeek.github.io/blog/images-blog/githubpages.png)
 
