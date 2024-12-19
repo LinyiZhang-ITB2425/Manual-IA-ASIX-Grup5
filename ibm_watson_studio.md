@@ -31,3 +31,14 @@ def predict_sales(data):
 ![Diagrama de flujo de Watson Studio](https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/7f/71/Developmodelsvisually.component.item-horizontal-with-media-left-xl.ts=1701710180109.png/content/adobe-cms/es/es/products/watson-studio/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/tabs_container_120551227/tabs-item/item_1685102058283/image)
 
 ---
+
+## 2. Impacto en el Sector
+- **Transformación empresarial**: Permite a las empresas tomar decisiones basadas en datos, mejorando su agilidad y competitividad.  
+- **Optimización de procesos**: Automatiza tareas repetitivas y complejas, reduciendo costos operativos.  
+- **Accesibilidad a la IA**: Democratiza el acceso a herramientas de análisis avanzado, beneficiando tanto a expertos como a principiantes.  
+- **Innovación impulsada por datos**: Fomenta la creación de soluciones innovadoras mediante la integración de inteligencia artificial en diferentes sectores.
+
+> "IBM Watson Studio está redefiniendo la forma en que las empresas aprovechan el poder de los datos para innovar y crecer."  
+> — *Estudio de caso IBM*
+
+---
