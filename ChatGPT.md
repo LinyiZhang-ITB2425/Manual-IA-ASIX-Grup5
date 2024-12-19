@@ -1,6 +1,6 @@
 # Manual de ChatGPT
 
-## Introducción
+## 1.Introducción
 ChatGPT es una de las IA's más útiles y usadas actualmente, diseñada para procesar y generar texto de forma natural. Este manual ofrece información general sobre las aplicaciones, impacto y consideraciones ambientales asociadas al uso de esta tecnología, así como propuestas para hacerla más sostenible ante él.
 
 ![ ](https://img.freepik.com/fotos-premium/icono-ilustracion-logotipo-chat-gpt-open-ai_895118-4739.jpg)
@@ -12,7 +12,7 @@ ChatGPT es una de las IA's más útiles y usadas actualmente, diseñada para pro
 
 ---
 
-## Las aplicaciones de la IA
+## 2. Las aplicaciones de la IA
 ChatGPT es una herramienta muy útil y avanzada con aplicaciones en varios sectores:
 
 - **Empresas y atención al cliente**:
@@ -32,7 +32,7 @@ ChatGPT es una herramienta muy útil y avanzada con aplicaciones en varios secto
 
 ---
 
-## Impacto en el sector
+## 3. Impacto en el sector
 ChatGPT ha tenido un impacto notable en varios sectores:
 
 - **Empresas**:
@@ -46,11 +46,11 @@ ChatGPT ha tenido un impacto notable en varios sectores:
 
 - **Retos y limitaciones**:
  Puede provocar dependencia tecnológica y la sustitución de puestos de trabajo en tareas rutinas, requiriendo un uso ético y responsable.
- 
+
 ![ ](https://www.totemguard.com/aulatotem/wp-content/uploads/2023/03/Chat_gpt_explicacion_fotosintesis.jpg)
 ---
 
-## Impacto ambiental
+## 4. Impacto ambiental
 A pesar de sus beneficios, ChatGPT tiene un impacto ambiental importante:
 
 - **Consumo energético elevado**:
@@ -64,7 +64,7 @@ A pesar de sus beneficios, ChatGPT tiene un impacto ambiental importante:
 
 ---
 
-## Propuestas para minimizar los impactos ambientales
+## 5. Propuestas para minimizar los impactos ambientales
 Para reducir el impacto ambiental de ChatGPT, se pueden aplicar varias soluciones:
 
 - **Optimización de los modelos**:
@@ -78,3 +78,7 @@ Para reducir el impacto ambiental de ChatGPT, se pueden aplicar varias solucione
 
 - **Investigación en eficiencia energética**:
  Priorizar el desarrollo de tecnologías más sostenibles para garantizar una IA más respetuosa con el medio ambiente.
+
+ ## 6. Referencias y recursos adicionales
+
+  (Empresas y atención al cliente)[https://www.cio.com/article/1314390/como-pueden-utilizar-chatgpt-y-gpt-3-las-empresas.html?utm_source=chatgpt.com]
