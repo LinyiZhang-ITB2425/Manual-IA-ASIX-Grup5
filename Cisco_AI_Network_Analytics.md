@@ -44,6 +44,9 @@ Cisco AI Network Analytics es una aplicación dentro de Cisco DNA Center que apr
 
 ## 5.Referencias y recursos adicionales: 
 [Página Oficial Cisco](https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center-assurance/2-3-5/b_cisco_dna_assurance_2_3_5_ug/b_cisco_dna_assurance_2_3_3_ug_chapter_010.html)
+
 [Cisco Networking Academy Blog](https://blogs.cisco.com/tag/cisco-networking-academy)
+
 [Cisco Networking Academy Courses](https://www.netacad.com/catalogs)
+
 [Cisco Networking Academy Labs](https://learningnetworkstore.cisco.com/cisco-learning-labs)
